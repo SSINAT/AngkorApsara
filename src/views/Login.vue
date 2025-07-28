@@ -3,7 +3,7 @@
     <form class="loginForm-container" @submit.prevent="handleLogin">
       <DefaultBrand />
       <div class="loginForm-wrapper">
-        <img src="../../public/images/OAuth/tapromFace.png" alt="temple" />
+        <img src="/public/images/OAuth/tapromFace.png" alt="temple" />
         <div class="loginDetails">
           <div class="head">
             <h1 class="title">Login to your Account</h1>
