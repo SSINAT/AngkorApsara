@@ -3,7 +3,7 @@
     <form class="signupForm-container" @submit.prevent="handleSignUp">
       <DefaultBranch />
       <div class="signupForm-wrapper">
-        <img src="/public/images/OAuth/temple1.png" alt="temple" />
+        <img src="/images/OAuth/temple1.png" alt="temple" />
         <div class="signupDetails">
           <div class="head">
             <h1 class="title">Create new Account</h1>

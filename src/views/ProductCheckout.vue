@@ -39,13 +39,13 @@
         <div v-if="displaycard" class="card-details">
           <h3>Debit Card</h3>
           <div class="card-option">
-            <img src="//Public/images/mastercard.png" alt="MasterCard" />
+            <img src="/images/mastercard.png" alt="MasterCard" />
             <span>Axim Bank</span>
             <span>**** **** **** 4578</span>
             <input type="radio" name="card" />
           </div>
           <div class="card-option">
-            <img src="/Public/images/visa.png" alt="Visa" />
+            <img src="/images/visa.png" alt="Visa" />
             <span>Visa Bank</span>
             <span>**** **** **** 1234</span>
             <input type="radio" name="card" />
